@@ -32,7 +32,7 @@
 
     data () {
       return {
-        msg: 'HowTo call REST-Services:',
+        msg: 'Manage Health of Tenants:',
         response: [],
         appstatuses: [],
         errors: []
